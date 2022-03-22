@@ -6,11 +6,12 @@ verify_ssl = true
 [dev-packages]
 
 [packages]
-numpy = "*"
-opencv-python = "*"
+opencv-python = "==4.5.5.64"
 scikit-learn = "*"
 pandas = "*"
 beautifulsoup4 = "*"
+dill = "*"
+catboost = "*"
 
 [requires]
 python_version = "3.7"
