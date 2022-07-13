@@ -18,17 +18,19 @@
     "default": {
         "ansible": {
             "hashes": [
-                "sha256:6f2f762fca6cff0401a6d2119b8ba3b2f111ea1a93fd203c86df09bc75570f18"
+                "sha256:52c89558d4ab8238828f1b98f653b148738065895cefbef9c174beb663bea3a0",
+                "sha256:91e4b23945f190aaa123c6ba4f8accb8e7f8905991bd3bb19b89afbdca456822"
             ],
             "index": "pypi",
-            "version": "==5.9.0"
+            "version": "==6.1.0"
         },
         "ansible-core": {
             "hashes": [
-                "sha256:a31c1b0a3e2efedcb4c48cf95d36aa0ab19cef40eba1719ddb0d92ba1a9cf62a"
+                "sha256:45d55e052bcea487366b0893b22f247e913a1f0948197658b7f3532a37ab6841",
+                "sha256:abd478ceff1a0aba95e94ceab8dc820f407bcc0f0033dc546840cddc29a36958"
             ],
             "markers": "python_version >= '3.8'",
-            "version": "==2.12.7"
+            "version": "==2.13.1"
         },
         "ansible-runner": {
             "hashes": [
@@ -437,10 +439,10 @@
         },
         "resolvelib": {
             "hashes": [
-                "sha256:8113ae3ed6d33c6be0bcbf03ffeb06c0995c099b7b8aaa5ddf2e9b3b3df4e915",
-                "sha256:9b9b80d5c60e4c2a8b7fbf0712c3449dc01d74e215632e5199850c9eca687628"
+                "sha256:c6ea56732e9fb6fca1b2acc2ccc68a0b6b8c566d8f3e78e0443310ede61dbd37",
+                "sha256:d9b7907f055c3b3a2cfc56c914ffd940122915826ff5fb5b1de0c99778f4de98"
             ],
-            "version": "==0.5.4"
+            "version": "==0.8.1"
         },
         "setuptools": {
             "hashes": [
@@ -460,11 +462,11 @@
         },
         "urllib3": {
             "hashes": [
-                "sha256:44ece4d53fb1706f667c9bd1c648f5469a2ec925fcf3a776667042d645472c14",
-                "sha256:aabaf16477806a5e1dd19aa41f8c2b7950dd3c746362d7e3223dbe6de6ac448e"
+                "sha256:8298d6d56d39be0e3bc13c1c97d133f9b45d797169a0e11cdd0e0489d786f7ec",
+                "sha256:879ba4d1e89654d9769ce13121e0f94310ea32e8d2f8cf587b77c08bbcdb30d6"
             ],
-            "markers": "python_version >= '2.7' and python_version not in '3.0, 3.1, 3.2, 3.3, 3.4' and python_version < '4'",
-            "version": "==1.26.9"
+            "markers": "python_version >= '2.7' and python_version not in '3.0, 3.1, 3.2, 3.3, 3.4, 3.5' and python_version < '4'",
+            "version": "==1.26.10"
         },
         "xmltodict": {
             "hashes": [
